@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SocialiZE</string>
+    <string name="go_somewhere">Go Somewhere</string>
+    <string name="socialize">SocialiZE</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_a_user_login">Already a user? Login.</string>
+    <string name="new_to_socialize_sign_up_here">New to SocialiZE? Sign up here.</string>
+    <string name="post">POST</string>
+    <string name="description">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
